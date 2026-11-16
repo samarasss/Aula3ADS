@@ -51,9 +51,6 @@ public class Metodos {
 //            }
 //        }
 
-
-        System.out.println("teste");
-
         System.out.println("Tarefa não cadastrada!");
     }
 
